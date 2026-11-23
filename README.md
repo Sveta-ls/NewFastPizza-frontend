@@ -1,4 +1,4 @@
-# NewFastPizza — главная страница
+# NewFastPizza frontend
 
 Готовая клиентская главная страница на React + TypeScript + Vite. Визуальная основа — предоставленные референсы NewFastPizza.
 
