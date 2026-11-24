@@ -1,7 +1,5 @@
 # NewFastPizza frontend
 
-Готовая клиентская главная страница на React + TypeScript + Vite. Визуальная основа — предоставленные референсы NewFastPizza.
-
 ## Требования
 
 - Node.js 18.18+
