@@ -247,7 +247,7 @@ export default function App() {
             </button>
           </div>
           <div className="slide-dots" aria-label="Выбор слайда">
-            {pizzas.slice(0, 3).map((pizza, index) => (
+            {pizzas.slice(0, 4).map((pizza, index) => (
               <button
                 key={pizza.id}
                 aria-label={`Показать ${pizza.name}`}
@@ -264,10 +264,6 @@ export default function App() {
               <p className="eyebrow">ВЫБИРАЙТЕ ЛЮБИМОЕ</p>
               <h2>Популярные пиццы</h2>
             </div>
-            <span className="section-note">
-              Просто хорошие ингредиенты
-              <br />и правильное тесто.
-            </span>
           </div>
           <div className="pizza-grid">
             {pizzas.map((pizza) => (
